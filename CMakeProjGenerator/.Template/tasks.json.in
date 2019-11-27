@@ -82,7 +82,7 @@
             "label": "RunCMake[Release]",
             "command": "${workspaceFolder}/run_cmake.sh",
             "args": [
-                "--type=Debug"
+                "--type=Release"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
