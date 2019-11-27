@@ -15,3 +15,7 @@
         а. Создать папку с названием проекта.
 
         б. Зайти в эту папку и выполнить gen_cmake_proj.sh
+
+3. Пример
+
+![alt text](https://github.com/bugslayer312/DevelopUtilities/blob/master/CMakeProjGenerator/Example.png)
